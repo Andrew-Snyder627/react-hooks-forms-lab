@@ -90,6 +90,26 @@ and added to our list of items.
   it's important to pass a _new_ array to the state setter function instead of
   mutating the original array.
 
+## Description
+
+A simple React app to manage a shopping list. Add items by name and category, filter by category, and search for items in real-time. Great for practicing React forms, state, and component props.
+
+## How To Setup the Project
+
+**Clone the repository:**
+
+git clone <your-repo-url>
+
+cd <your-repo-url>
+
+npm install
+
+npm start
+
+## How To Run Tests
+
+npm test
+
 ## Resources
 
 - [React Forms](https://facebook.github.io/react/docs/forms.html)
