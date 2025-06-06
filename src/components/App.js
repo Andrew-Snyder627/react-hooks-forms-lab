@@ -11,6 +11,7 @@ function App() {
     setIsDarkMode((isDarkMode) => !isDarkMode);
   }
 
+  // Handler for when a new item is added from ItemForm
   function handleAddItem(newItem) {
     setItems([...items, newItem]);
   }
